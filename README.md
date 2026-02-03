@@ -56,14 +56,3 @@ export default class ControllerExample {
     }
 }
 ```
-
----
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=pabloosabaterr&show_icons=true&theme=onedark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloosabaterr&layout=compact&langs_count=8&card_width=320&theme=onedark" />
-</a>
