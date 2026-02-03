@@ -31,15 +31,18 @@
 ### 🛠️ What I'm Building
 
 **🎯 Orn Lang Compiler**
-- Modern low-level language with fast single-pass compilation
-- Zero-copy reference design for maximum performance
-- Precise, actionable error messages for developers
-- x86-64 native code generation
+- Modern low-level language with TypeScript-inspired syntax
+- Strong type system with manual memory management and pointer support
+- Clear, actionable error messages that save debugging time
+- Module-by-module compilation with IR optimization
+- Generates x86-64 AT&T assembly
 
 **🌐 Edno Framework** *(Deprecated - Old Project)*
 - Legacy TypeScript web framework with decorators & dependency injection
 - Historical project showcasing early framework design concepts
 - No longer maintained or updated
+
+---
 
 ```typescript
 @Controller("/greet")
