@@ -18,10 +18,10 @@
 ### 🔗 Projects & Links
 
 <p>
-  <a href="https://github.com/Blopaa/Orn">
+  <a href="https://github.com/pabloosabaterr/Orn">
     <img src="https://img.shields.io/badge/Orn%20Lang%20Compiler-Visit-orange?style=for-the-badge&logo=cplusplus&logoColor=white" />
   </a>
-  <a href="https://github.com/Blopaa/edno">
+  <a href="https://github.com/pabloosabaterr/edno">
     <img src="https://img.shields.io/badge/Edno%20Framework%20(Deprecated)-Visit-gray?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
 </p>
@@ -62,8 +62,8 @@ export default class ControllerExample {
 ### 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Blopaa&show_icons=true&theme=onedark" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=pabloosabaterr&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blopaa&layout=compact&langs_count=8&card_width=320&theme=onedark" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloosabaterr&layout=compact&langs_count=8&card_width=320&theme=onedark" />
 </a>
