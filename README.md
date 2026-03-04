@@ -1,58 +1,24 @@
-# 👋 Hi, I'm Pablo Sabater Jiménez
+# I'm Pablo Sabater Jiménez
 
-> 🚀 Building compilers (Orn Lang) • 🎯 TypeScript framework creator (Edno) • ⚙️ cs student
+> cs student
 
----
+<a href="">
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=pabloosabaterr&theme=github_dark&hide=contribs&show_icons=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=pabloosabaterr&theme=github_dark&layout=compact" />
+</a>
 
-### 🧠 Languages I Use
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=flat&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-</p>
-
----
-
-### 🔗 Projects & Links
-
-<p>
-  <a href="https://github.com/pabloosabaterr/Orn">
-    <img src="https://img.shields.io/badge/Orn%20Lang%20Compiler-Visit-orange?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  </a>
-  <a href="https://github.com/pabloosabaterr/edno">
-    <img src="https://img.shields.io/badge/Edno%20Framework%20(Deprecated)-Visit-gray?style=for-the-badge&logo=typescript&logoColor=white" />
-  </a>
-</p>
+<br/>
+<br/>
 
 ---
-
-### 🛠️ What I'm Building
-
-**🎯 Orn Lang Compiler**
-- Modern low-level language with TypeScript-inspired syntax
-- Strong type system with manual memory management and pointer support
-- Clear, actionable error messages that save debugging time
-- Module-by-module compilation with IR optimization
-- Generates x86-64 AT&T assembly
-
-**🌐 Edno Framework** *(Deprecated - Old Project)*
-- Legacy TypeScript web framework with decorators & dependency injection
-- Historical project showcasing early framework design concepts
-- No longer maintained or updated
-
----
-
-```typescript
-@Controller("/greet")
-export default class ControllerExample {
-    constructor(@Inject(ComponentExample) private component: ComponentExample) {}
-
-    @Get("/:name")
-    @HttpCode(HttpStatus.OK)
-    public greet(@Param("name") name: string): string {
-        return this.component.greet(name);
-    }
-}
-```
+### Projects
+* [**CPU16**](https://github.com/pabloosabaterr/CPU16)
+  * A 16 bit CPU emulator inspired on MIPS. Built on C
+* [**Assembler**](https://github.com/pabloosabaterr/CPU16ASM)
+  * An assembler for CPU16 project. Built on Rust
+* [**Orn**](https://github.com/pabloosabaterr/Orn)
+  * My own programming language, inspired on C, Rust and typescript. Built on C
+* [**Edno**](https://github.com/pabloosabaterr/Edno) - no longer in deveplopment
+  * Node js framework that resembles Spring Boot and nestjs. Built on ts and nodejs
