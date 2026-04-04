@@ -16,8 +16,6 @@
 ### Projects
 * [**CPU16**](https://github.com/pabloosabaterr/CPU16)
   * A 16 bit CPU emulator inspired on MIPS. Built on C
-* [**Assembler**](https://github.com/pabloosabaterr/CPU16ASM)
-  * An assembler for CPU16 project. Built on Rust
 * [**Orn**](https://github.com/pabloosabaterr/Orn)
   * My own programming language, inspired on C, Rust and typescript. Built on C
 * [**Edno**](https://github.com/pabloosabaterr/Edno) - no longer in deveplopment
