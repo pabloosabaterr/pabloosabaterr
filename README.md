@@ -1,5 +1,9 @@
 # I'm Pablo Sabater Jiménez
 
+Google Summer of Code 2026 at Git Mentored by [Karthik](https://github.com/karthiknayak/) who works at Gitlab and [Chandra](https://github.com/Chand-ra)
+
+[Blog](https://pablosabater.dev) about my work.
+
 > cs student
 
 <a href="">
