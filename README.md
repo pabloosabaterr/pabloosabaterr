@@ -8,9 +8,4 @@ Google Summer of Code @ Git ’26 Mentored by [Karthik](https://github.com/karth
 
 My [blog](https://pablosabater.dev)
 
-<a href="">
-  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=pabloosabaterr&theme=github_dark&hide=contribs&show_icons=true" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=pabloosabaterr&theme=github_dark&layout=compact" />
-</a>
+I like C mostly but I also code in C++, Typescript, Rust and Go
